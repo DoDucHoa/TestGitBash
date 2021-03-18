@@ -1,5 +1,6 @@
 CREATE Database HoaDD (
   name NVARCHAR(256),
-  id INT
+  id INT,
+  email NVARCHAR(256)
 )
 GO
